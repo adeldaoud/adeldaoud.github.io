@@ -33,9 +33,10 @@ It will go live soon with additional material for my various projects (code, dat
 ![pic](http://adeldaoud.github.io/images/Badgovernment.jpg)
 ![pic](http://adeldaoud.github.io/images/Badgovernment.jpg "governance")
 
-![mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
-
 ![mpi caterpillar image](http://adeldaoud.github.io/images/mpi.png)
+
+![mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
+[mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
 
 ![caterpillar](adeldaoud.github.io/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)
 ![caterpillar](http:/adeldaoud.github.io/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)

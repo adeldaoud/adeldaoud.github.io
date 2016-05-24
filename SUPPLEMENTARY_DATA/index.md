@@ -25,16 +25,6 @@ It will go live soon with additional material for my various projects (code, dat
 [the paper](http://www.mpifg.de/pu/mpifg_dp/dp16-7.pdf), [supplementary data]()
 
 
-# image version
-![mpi caterpillar image](http://adeldaoud.github.io/images/mpi.png)
-
-# pdf verion
-![mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
-
-# pdf verion without exclamation mark
-[mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
-
-
 # suggested path to the pdf
-![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/myplot.png)
-
+![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.png)
+[download as pdf](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)

@@ -35,4 +35,10 @@ Journals can be more or less oriented towards economic topics. This graph captur
 
 ## Scholars´ topical orientation 
 
-![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.png)
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Adel Daoud.png "Adel Daoud")
+
+
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Adel Daoud.png)
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Adel Daoud.png)
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Adel Daoud.png)
+

@@ -36,5 +36,5 @@ It will go live soon with additional material for my various projects (code, dat
 
 
 # suggested path to the pdf
-![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)
+[caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/testcatter.svg)
 

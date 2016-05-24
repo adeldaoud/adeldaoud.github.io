@@ -23,19 +23,20 @@ share: false
 
 
 ![Image of Yaktocat](https://github.com/adeldaoud/adeldaoud.github.io/SUPPLEMENTARY DATA/How Much Do Sociologists Write About Economic Topics/economic-intercept catterpillar.pdf)
-
 ![Image of Yaktocat](adeldaoud.github.io/SUPPLEMENTARY DATA/How Much Do Sociologists Write About Economic Topics/economic-intercept catterpillar.pdf)
-
 ![caterpillar](adeldaoud.github.io/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept_catterpillar.pdf)
-
 ![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept_catterpillar.pdf "Figures")
-
 ![caterpillar](https://github.com/adeldaoud/adeldaoud.github.io/blob/master/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept_catterpillar.pdf)
  
 
 
-![caterpillar](http://adeldaoud.se/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept_catterpillar.pdf)
-![caterpillar](http:/adeldaoud.github.io/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept_catterpillar.pdf)
+![pic](http://adeldaoud.github.io/images/Badgovernment.jpg)
+![pic](http://adeldaoud.github.io/images/Badgovernment.jpg "governance")
+
+![mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
+
+![caterpillar](adeldaoud.github.io/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)
+![caterpillar](http:/adeldaoud.github.io/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)
 
 ![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 

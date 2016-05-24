@@ -15,8 +15,11 @@ share: false
 
 {% include toc.html %}
 
-# Supplementary data and resources
 
+# This page is still under construction! 
+It will go live soon with additional material for my various projects (code, data, extras, etc.)
+
+## Supplementary data and resources
 
 * 2016 **Daoud, Adel** and Kohl, Sebastian, How Much Do Sociologists Write About Economic Topics? Using Big-Data to Test Some Conventional Views in Economic Sociology, 1890 to 2014. MPIfG Discussion Paper 16/7 (peer-reviewed)
 [the paper](http://www.mpifg.de/pu/mpifg_dp/dp16-7.pdf), [supplementary data]()

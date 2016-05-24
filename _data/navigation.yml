@@ -15,6 +15,11 @@
   excerpt: "My Research"
   image: books.jpg
   
+- title: SUPPLEMENTARY DATA
+  url: /SUPPLEMENTARY_DATA/
+  excerpt: "SUPPLEMENTARY"
+  image: books.jpg
+  
 - title: ABOUT ME
   url: /ABOUT ME/
   excerpt: "My Position"

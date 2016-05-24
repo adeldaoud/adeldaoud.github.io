@@ -32,3 +32,7 @@ Journals can be more or less oriented towards economic topics. This graph captur
 
 ![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.png)
 [Download as PDF](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)
+
+## Scholars´ topical orientation 
+
+![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.png)

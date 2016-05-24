@@ -31,6 +31,10 @@ It will go live soon with additional material for my various projects (code, dat
 # pdf verion
 ![mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
 
+# pdf verion without exclamation mark
+[mpi caterpillar](http://adeldaoud.github.io/images/mpi.pdf)
+
+
 # suggested path to the pdf
 ![caterpillar](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/economic-intercept-catterpillar.pdf)
 

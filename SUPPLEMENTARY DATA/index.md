@@ -24,6 +24,9 @@ share: false
 
 ![Image of Yaktocat](https://github.com/adeldaoud/adeldaoud.github.io/SUPPLEMENTARY DATA/How Much Do Sociologists Write About Economic Topics/economic-intercept catterpillar.pdf)
 
+![Image of Yaktocat](adeldaoud.github.io/SUPPLEMENTARY DATA/How Much Do Sociologists Write About Economic Topics/economic-intercept catterpillar.pdf)
+
+
 
  
 

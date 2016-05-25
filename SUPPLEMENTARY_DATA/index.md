@@ -47,3 +47,10 @@ Each scholar has a topical orientation. The substantive issues that interest him
 ![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Richard Swedberg.png "Richard Swedberg")
 ![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Viviana Zelizer.png "Viviana Zelizer")
 
+
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+

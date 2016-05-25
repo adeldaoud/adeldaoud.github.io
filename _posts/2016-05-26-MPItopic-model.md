@@ -7,8 +7,8 @@ tags: [sample]
 comments: false
 ads: false
 image:
-  feature: SSM.png
-  teaser: SSM.png
+  feature: 
+  teaser: 
 ---
 
 # How Much Do Sociologists Write About Economic Topics? 

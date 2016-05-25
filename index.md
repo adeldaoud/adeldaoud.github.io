@@ -15,9 +15,3 @@ I happened to have a Ph.D. in sociology, but could have equally had it in econom
 My normative aim is – to borrow from Aristotle´s idea on eudaimonia – to contribute to the betterment of our global society so all individuals can flourish. My research is a small piece adding to that.
 
 
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->

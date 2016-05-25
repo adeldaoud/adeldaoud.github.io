@@ -7,8 +7,8 @@ tags: [sample]
 comments: false
 ads: false
 image:
-  feature: eolikelihood.png
-  teaser: eolikelihood.png
+  feature: 
+  teaser: 
 ---
 
 

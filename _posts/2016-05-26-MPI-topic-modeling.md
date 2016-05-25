@@ -7,8 +7,8 @@ tags: [sample]
 comments: false
 ads: false
 image:
-  feature: 
-  teaser: 
+  feature: ucla.jpg
+  teaser: ucla.jpg
 ---
 
 

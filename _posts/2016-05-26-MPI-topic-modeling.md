@@ -1,17 +1,15 @@
 ---
 layout: article
-title: "How Much Do Sociologists Write About Economic Topics"
+title: "Undernutrition"
 categories: articles
-modified: 2016-05-27T11:57:41-04:00
+modified: 2015-08-27T11:57:41-04:00
 tags: [sample]
 comments: false
 ads: false
 image:
-  feature: ucla.jpg
-  teaser: ucla.jpg
+  feature: SSM.png
+  teaser: SSM.png
 ---
-
-
 
 # How Much Do Sociologists Write About Economic Topics? 
 ## Supplementary data and resources

@@ -2,7 +2,7 @@
 layout: article
 title: "How Much Do Sociologists Write About Economic Topics?"
 categories: articles
-modified: 2015-08-27T11:57:41-04:00
+modified: 2016-05-27T11:57:41-04:00
 tags: [sample]
 comments: false
 ads: false

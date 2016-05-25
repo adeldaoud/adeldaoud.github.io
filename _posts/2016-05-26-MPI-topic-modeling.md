@@ -7,8 +7,8 @@ tags: [sample]
 comments: false
 ads: false
 image:
-  feature: ucla.jpg
-  teaser: ucla.jpg
+  feature: eolikelihood.png
+  teaser: eolikelihood.png
 ---
 
 

@@ -12,7 +12,7 @@ image:
 ---
 
 
-This page is still under construction! It will go live soon with additional material from my various projects (code, data, extras, etc.)
+This page is still under construction! It will go live soon with additional material such as code, data, extras, and customizable visualizations.  
 
 # How Much Do Sociologists Write About Economic Topics? 
 ## Supplementary data and resources

@@ -28,7 +28,9 @@ Journals can be more or less oriented towards economic topics. This graph captur
 ## Scholars´ topical orientation 
 Each scholar has a topical orientation. The substantive issues that interest him or her. The heat-maps below outline the probability score for each scholar and his or her articles. These articles are restricted to what the scholar has published and that is available with JSTOR between 1891 and 2014 (December). I am building a [Shiny app](http://shiny.rstudio.com/) where you will be able to customize these output for your favorite scholar. I expect to release this app by the summer of 2016
 
-### My publications!
+### My two publications in JSTOR
+These two publications have a clear orientation towards the topics *economic* and *social theory*. According to our paper, this fits the economic sociology profile. 
+
 ![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Adel Daoud.png "Adel Daoud")
 
 ### Some of the most prolific scholars in the field of economic sociology and political economy 

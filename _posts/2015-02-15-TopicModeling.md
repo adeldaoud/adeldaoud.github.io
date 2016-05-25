@@ -36,11 +36,10 @@ These two publications have a clear orientation towards the topics *economic* an
 ![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Adel Daoud.png "Adel Daoud")
 
 ### Some of the most prolific scholars in the field of economic sociology and political economy 
-<img src="/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Frank Dobbin.png" width="400">
-<img src="/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Mark Granovetter.png" width="400">
-<img src="/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Neil Fligstein.png" width="400">
-<img src="/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Paul DiMaggio.png" width="400">
-<img src="/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Richard Swedberg.png" width="400">
-<img src="/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Viviana Zelizer.png" width="400">
-
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Frank Dobbin.png "Frank Dobbin")
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Mark Granovetter.png "Mark Granovetter")
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Neil Fligstein.png "Neil Fligstein")
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Paul DiMaggio.png "Paul DiMaggio")
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Richard Swedberg.png "Richard Swedberg")
+![heatmaps](/SUPPLEMENTARY_DATA/Daoud_Kohl_2016_MPI_Topic_modeling/Viviana Zelizer.png "Viviana Zelizer")
 

@@ -42,9 +42,8 @@ Last updated: March 2019
 ---
 
 ## PUBLICATIONS (selected)
-* Full list at [Google Scholar](https://scholar.google.se/citations?user=iCDKhFsAAAAJ&hl=sv)
-
 ### Articles in Peer-Reviewed Journals
+*Full list at [Google Scholar](https://scholar.google.se/citations?user=iCDKhFsAAAAJ&hl=sv)*
 
 * Accepted. **Daoud, Adel**, Alexander Kentikelenis, Thomas Stubbs, Lawrence King. “The International Monetary Fund’s Interventions in Food and Agriculture: An Analysis of Loans and Conditions”, Food Policy, 5yr Impact factor: 4.1.
 * 2019, Kraamwinkel, N., Ekbrand, H., Davia, S., **Daoud, Adel.**, The influence of maternal agency on child well-being in conflict-ridden Nigeria: modelling heterogeneous treatment effects with machine learning. PLoS ONE 5yr Impact factor: 2.8, (cit. NA). 
@@ -77,7 +76,6 @@ Last updated: March 2019
   * Norwegian (fluent in speech, basic in writing)
   * Danish (basic)
 * Nationality:	*Swedish*
-
 
 ---
 

@@ -17,9 +17,9 @@ share: false
 
 # RESEARCH INTEREST
 
-* **Political Economy and Development studies**: global (child) poverty; inequality, governance; natural disasters; economic crises; global health. 
-* **Economic Sociology**: theory of Scarcity, Abundance, and Sufficiency; theory of science (critical realism); action theory, class and stratification. 
-* **Methodology**: multilevel modeling, machine learning, social network analysis, topic modeling (quantitative text analysis), Bayesian statistics, R-programming.
+* **Political Economy and Development studies**: global poverty; inequality, governance; natural disasters; economic crises. 
+* **Economic Sociology**: theory of Scarcity, Abundance, and Sufficiency; theory of science; social stratification. 
+* **Methodology**: causal inference, machine learning, topic modeling (quantitative text analysis).
 
 # POLITICAL ECONOMY and DEVELOPMENT STUDIES
 My main research project is analyzes how external shocks – economic crises, natural disasters, and, armed conflicts – effect child poverty, and how to alleviate the adverse effects of these shocks by well-crafted policies. 

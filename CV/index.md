@@ -15,7 +15,7 @@ share: false
 
 {% include toc.html %}
 
-Last updated: March 2019
+Last updated: January 2021
 
 ## EDUCATION
 * 2016 B.A in Political Science, University of Gothenburg

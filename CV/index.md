@@ -56,7 +56,13 @@ Last updated: January 2021
 ### Articles in Peer-Reviewed Journals
 *Full list at [Google Scholar](https://scholar.google.se/citations?user=iCDKhFsAAAAJ&hl=sv)*
 
-* Accepted. **Daoud, Adel**, Alexander Kentikelenis, Thomas Stubbs, Lawrence King. “The International Monetary Fund’s Interventions in Food and Agriculture: An Analysis of Loans and Conditions”, Food Policy, 5yr Impact factor: 4.1.
+* 2021, Koichiro Shiba, **Adel Daoud**, Hiroyuki Hikichi, Aki Yazawa, Jun Aida, Katsunori Kondo, Ichiro Kawachi, Heterogeneity in cognitive decline after a major disaster: a natural experiment study, Science Advances
+* 2021, Kino, Shiho, Yu-Tien, Koichiro Shiba, Ichiro Kawachi, and **Adel Daoud**, A scoping review on the use of machine learning in the research on the social determinants of health: trends and research prospects, Social Science &Medicine – Population Health (senior author).
+* 2021, Koichiro Shibaa, Jacqueline M. Torresc, **Adel Daoud**, Kosuke Inoue; Satoru Kanamori; Taishi Tsuji; Masamitsu Kamada, Katsunori Kondo, and Ichiro Kawachi, Estimating the impact of sustained social participation on depressive symptoms in older adults, Epidemiology
+* 2020, Koumakhov, Rouslan and **Daoud, Adel**, Defizienz and Structures: Dialogue between Herbert Simon and Critical Realists British Journal of Management
+* 2019, **Daoud, Adel,** Rockli Kim, and S V Subramanian, Evaluating the predictive power of socioeconomic factors in capturing women’s height in 58 low- and middle-income countries: a machine learning approach, Social Science & Medicine, 238 (2019) 112486
+* 2019, **Daoud, Adel** and Nandy, Shailen, Implications of the politics of caste and class on child poverty in India, Sociology of Development, Vol. 5, Number 4, pp 428-451, DOI: doi.org/10.1525/sod.2019.5.4.428
+* 2019, **Daoud, Adel**, Alexander Kentikelenis, Thomas Stubbs, Lawrence King. “The International Monetary Fund’s Interventions in Food and Agriculture: An Analysis of Loans and Conditions”, Food Policy, 5yr Impact factor: 4.1.
 * 2019, Kraamwinkel, N., Ekbrand, H., Davia, S., **Daoud, Adel.**, The influence of maternal agency on child well-being in conflict-ridden Nigeria: modelling heterogeneous treatment effects with machine learning. PLoS ONE 5yr Impact factor: 2.8, (cit. NA). 
 * 2018, **Daoud, Adel**, and Bernhard Reinsberg, “Structural adjustment, state capacity, and child health: Evidence from IMF programs,” International Journal of Epidemiology. 5yr Impact factor: 10.2.
 * 2018, **Daoud, Adel**, “Unifying studies of Scarcity, Abundance, and Sufficiency”, Ecological Economics. Vol 147, Issue: May, pp. 208 – 217. 5yr Impact factor: 4.8,

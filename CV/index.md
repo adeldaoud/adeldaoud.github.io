@@ -29,9 +29,20 @@ Last updated: January 2021
 ## ACADEMIC POSITIONS
 
 ### Current appointment
+* 2021, Apr.- Associate Professor (Biträdande professor) in analytical sociology, Institute for Analytical Sociology, Department of Management and Engineering, Linköping University, Norrköping, Sweden.
+* 2020, Jun. – Affiliated Associate Professor in Data Science and Artificial Intelligence for the Social Sciences, The Division of Data Science and Artificial Intelligence of the Department of Computer Science and Engineering, Chalmers University of Technology, Gothenburg, Sweden.
+* 2018, Jan. – Academy Research Fellow, Royal Swedish Academy of Letters, History, and Antiquities, Stockholm, Sweden.
+* 2018, Jan. – Research fellow in political economy (Honorary), Centre for Business Research, Judge Business School, University of Cambridge, Cambridge, the U.K.
+* 2021, Jan. – Visiting scientist, Department of Social and Behavioral Sciences, Harvard University, Boston, U.S.
+
+### Previous appointment
+* 2019, Dec. – 2021, Apr. Associate Professor (Senior Lecturer), Department of Sociology, University of Gothenburg, Gothenburg, Sweden.
 * 2018, Jan. – 2019, Dec.	Bell Fellow, Center for Population and Development Studies,  Harvard University, Cambridge, The United States.
+* 2017, Oct. – 2019, Dec. Turing Fellow, the Alan Turing Institute, London, U.K.
+* 2016, Jul. – 2017, Dec. Research fellow in political economy, Centre for Business Research, Judge Business School, University of Cambridge, Cambridge, U.K.
 
 ### Visiting positions
+* 2020, Jan. –  2021, Dec. Visiting scientist, Center for Population and Development Studies, Harvard University, Boston, U.S.
 * 2016, Jan - 2016, Jun. Department of Sociology, University of Cambridge, the UK. 
 * 2015, Sept. – 2015, Dec. 	Fielding School of Public Health, University of California, Los Angeles, the U.S. 
 * 2015, Feb. – 2015, Sept.	Department of Economics, The New School for Social Research, New York, the U.S. 

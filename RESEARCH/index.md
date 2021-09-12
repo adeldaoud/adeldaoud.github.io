@@ -17,14 +17,14 @@ share: false
 
 # RESEARCH INTEREST
 
-* **Political Economy and Development studies**: global poverty; inequality, governance; natural disasters; economic crises. 
+* **Political Economy and Development studies**: global poverty; inequality, governance; natural disasters; political and economic crises. 
 * **Economic Sociology**: theory of Scarcity, Abundance, and Sufficiency; theory of science; social stratification. 
-* **Methodology**: causal inference, machine learning, topic modeling (quantitative text analysis).
+* **Methodology**: causal inference, machine learning, topic modeling (quantitative text analysis), image-recognition algorithms (satellite images).
 
 # POLITICAL ECONOMY and DEVELOPMENT STUDIES
 My main research project is analyzes how external shocks – economic crises, natural disasters, and, armed conflicts – effect child poverty, and how to alleviate the adverse effects of these shocks by well-crafted policies. 
 
-My work pushes current boundaries in the field by focusing on global comparisons and by combining large-scale macro and micro databases (e.g. the Demographic Health Surveys and the Multiple Indicator Cluster Surveys). For example, [I am leading a paper](http://www.mpifg.de/pu/mpifg_dp/dp15-5.pdf) focusing on how natural disasters effect child poverty globally (67 middle and low-income countries). We find that children living in high-disaster countries – such as India, Kenya, Bangladesh, Ethiopia, and Thailand – run a higher risk of being knocked down to a state of absolute poverty. We find that the good governance does not help to counter the negative effects of disasters, as we have found in earlier studies we have published in World Development and Journal of South Asian Development. In the wake of climate change, this study teaches us that the world needs to address the causes of environmental degradation directly. 
+My work pushes current boundaries in the field by focusing on global comparisons and by combining large-scale macro and micro databases (e.g. the Demographic Health Surveys and the Multiple Indicator Cluster Surveys). For example, [I am leading a paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153296) focusing on how natural disasters effect child poverty globally (67 middle and low-income countries). We find that children living in high-disaster countries – such as India, Kenya, Bangladesh, Ethiopia, and Thailand – run a higher risk of being knocked down to a state of absolute poverty. We find that the good governance does not help to counter the negative effects of disasters, as we have found in earlier studies we have published in World Development and Journal of South Asian Development. In the wake of climate change, this study teaches us that the world needs to address the causes of environmental degradation directly. 
 
 ---
 

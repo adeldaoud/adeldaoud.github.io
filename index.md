@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "A Social Scientist Interested in Global Issues and New Ways of Portraying the World"
+title: "A computational social scientist with focus on global development"
 image:
   feature: daoud.png
 ---

@@ -1,8 +1,66 @@
-<header id="masthead">
-  <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
-    <nav role="navigation" class="menu top-menu">
-        {% include navigation.html %}
+<header class="site-header">
+  <div class="header-wrapper">
+    <a href="{{ '/' | relative_url }}" class="site-title">Adel Daoud</a>
+
+    <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
+
+    <nav class="main-nav" role="navigation">
+      <ul class="nav-list">
+        <li class="nav-item">
+          <a href="{{ '/' | relative_url }}" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/bio/' | relative_url }}" class="nav-link">Bio</a>
+        </li>
+        <li class="nav-item has-dropdown">
+          <a href="{{ '/research/' | relative_url }}" class="nav-link">Research</a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ '/research/articles/' | relative_url }}">Articles</a></li>
+            <li><a href="{{ '/research/books/' | relative_url }}">Books</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/lab/' | relative_url }}" class="nav-link">Lab</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/talks/' | relative_url }}" class="nav-link">Talks</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/podcast/' | relative_url }}" class="nav-link">Podcast</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/teaching/' | relative_url }}" class="nav-link">Teaching</a>
+        </li>
+      </ul>
     </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
+
+    <div class="social-links">
+      <a href="mailto:adel.daoud@liu.se" class="social-link" title="Email" aria-label="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+      <a href="https://scholar.google.se/citations?user=iCDKhFsAAAAJ" class="social-link" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/adel-daoud-b488902a/" class="social-link" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://www.youtube.com/@thejourneysofscholars8820" class="social-link" title="YouTube" aria-label="YouTube" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
+      </a>
+      <a href="https://github.com/AIandGlobalDevelopmentLab" class="social-link" title="GitHub" aria-label="GitHub" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://bsky.app/profile/adeldaoud.bsky.social" class="social-link" title="Bluesky" aria-label="Bluesky" target="_blank" rel="noopener">
+        <i class="fas fa-cloud"></i>
+      </a>
+      <a href="https://x.com/AdeldaoudAdel" class="social-link" title="X (Twitter)" aria-label="X (Twitter)" target="_blank" rel="noopener">
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+      <a href="https://open.spotify.com/show/2YUgdLmDgDpMzdnWdpD9bY" class="social-link" title="Spotify" aria-label="Spotify" target="_blank" rel="noopener">
+        <i class="fab fa-spotify"></i>
+      </a>
+    </div>
+  </div>
+</header>

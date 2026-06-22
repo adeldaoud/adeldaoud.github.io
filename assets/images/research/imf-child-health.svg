@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="Georgia, 'Source Serif Pro', serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1D1F25"/>
+    </marker>
+  </defs>
+
+  <!-- Node 1 -->
+  <rect x="20" y="100" width="150" height="80" rx="10" fill="#F4F1EF" stroke="#C9C5C2" stroke-width="1.5"/>
+  <text x="95" y="135" text-anchor="middle" font-size="17" fill="#1D1F25">IMF</text>
+  <text x="95" y="157" text-anchor="middle" font-size="17" fill="#1D1F25">program</text>
+
+  <!-- Node 2 -->
+  <rect x="210" y="100" width="150" height="80" rx="10" fill="#F4F1EF" stroke="#C9C5C2" stroke-width="1.5"/>
+  <text x="285" y="135" text-anchor="middle" font-size="17" fill="#1D1F25">Austerity</text>
+  <text x="285" y="157" text-anchor="middle" font-size="17" fill="#1D1F25">conditions</text>
+
+  <!-- Node 3 -->
+  <rect x="400" y="100" width="150" height="80" rx="10" fill="#F4F1EF" stroke="#C9C5C2" stroke-width="1.5"/>
+  <text x="475" y="135" text-anchor="middle" font-size="17" fill="#1D1F25">State</text>
+  <text x="475" y="157" text-anchor="middle" font-size="17" fill="#1D1F25">capacity &#8595;</text>
+
+  <!-- Node 4 (outcome) -->
+  <rect x="590" y="100" width="150" height="80" rx="10" fill="#F0DBD3" stroke="#C26148" stroke-width="2.5"/>
+  <text x="665" y="135" text-anchor="middle" font-size="17" fill="#1D1F25">Child</text>
+  <text x="665" y="157" text-anchor="middle" font-size="17" fill="#1D1F25">health &#8595;</text>
+
+  <!-- Arrows -->
+  <line x1="170" y1="140" x2="208" y2="140" stroke="#1D1F25" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="360" y1="140" x2="398" y2="140" stroke="#1D1F25" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="550" y1="140" x2="588" y2="140" stroke="#1D1F25" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- Title -->
+  <text x="20" y="50" font-size="15" fill="#6b6d73" font-style="italic">The causal pathway, in four steps</text>
+
+  <!-- Annotation -->
+  <text x="380" y="245" text-anchor="middle" font-size="14" fill="#6b6d73">Effects concentrate where state capacity was already weak.</text>
+  <text x="380" y="266" text-anchor="middle" font-size="14" fill="#6b6d73">Daoud et al., <tspan font-style="italic">PNAS</tspan> 2017</text>
+</svg>

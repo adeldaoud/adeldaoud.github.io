@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" font-family="Georgia, 'Source Serif Pro', serif">
+  <defs>
+    <marker id="arr3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1D1F25"/>
+    </marker>
+  </defs>
+
+  <text x="60" y="40" font-size="15" fill="#6b6d73" font-style="italic">Encoding causal assumptions as a graph</text>
+
+  <!-- Skip edge A -> Y_i (curved, above) -->
+  <path d="M110,110 C 280,30 420,30 490,110" fill="none" stroke="#1D1F25" stroke-width="1.6" marker-end="url(#arr3)"/>
+
+  <!-- Straight edges -->
+  <line x1="148" y1="140" x2="262" y2="140" stroke="#1D1F25" stroke-width="1.8" marker-end="url(#arr3)"/>
+  <line x1="338" y1="140" x2="452" y2="140" stroke="#1D1F25" stroke-width="1.8" marker-end="url(#arr3)"/>
+  <line x1="528" y1="140" x2="622" y2="140" stroke="#1D1F25" stroke-width="1.8" marker-end="url(#arr3)"/>
+
+  <!-- Nodes -->
+  <circle cx="110" cy="140" r="36" fill="#F4F1EF" stroke="#1D1F25" stroke-width="1.8"/>
+  <text x="110" y="148" text-anchor="middle" font-size="22" fill="#1D1F25">A</text>
+
+  <circle cx="300" cy="140" r="36" fill="#F4F1EF" stroke="#1D1F25" stroke-width="1.8"/>
+  <text x="300" y="148" text-anchor="middle" font-size="22" fill="#1D1F25">M</text>
+
+  <circle cx="490" cy="140" r="36" fill="#F0DBD3" stroke="#C26148" stroke-width="2.5"/>
+  <text x="490" y="148" text-anchor="middle" font-size="22" fill="#1D1F25">Y<tspan font-size="14" dy="6">i</tspan></text>
+
+  <circle cx="660" cy="140" r="36" fill="#F0DBD3" stroke="#C26148" stroke-width="2.5"/>
+  <text x="660" y="148" text-anchor="middle" font-size="22" fill="#1D1F25">Y<tspan font-size="14" dy="6">j</tspan></text>
+
+  <!-- Legend -->
+  <text x="110" y="225" text-anchor="middle" font-size="13" fill="#6b6d73">treatment</text>
+  <text x="300" y="225" text-anchor="middle" font-size="13" fill="#6b6d73">mediator</text>
+  <text x="575" y="225" text-anchor="middle" font-size="13" fill="#6b6d73">outcomes, linked across units</text>
+</svg>

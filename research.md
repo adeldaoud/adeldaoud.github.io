@@ -6,11 +6,11 @@ permalink: /research/
 
 # Research
 
-## [Articles]({{ '/research/articles/' | relative_url }})
+## [Selected Work]({{ '/research/articles/' | relative_url }})
 
-You will find virtually all my published and working papers on my [Google Scholar Page](https://scholar.google.se/citations?user=iCDKhFsAAAAJ&hl=sv).
+A curated selection of my research, grouped by theme and illustrated with visualizations. For the complete and always-current list, see my [Google Scholar Page](https://scholar.google.se/citations?user=iCDKhFsAAAAJ&hl=sv).
 
-[View All Articles]({{ '/research/articles/' | relative_url }})
+[View Selected Work]({{ '/research/articles/' | relative_url }})
 
 ## [Books]({{ '/research/books/' | relative_url }})
 

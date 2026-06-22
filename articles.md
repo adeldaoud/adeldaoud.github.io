@@ -1,145 +1,84 @@
 ---
 layout: default
-title: Articles
+title: Selected Work
 permalink: /research/articles/
 ---
 
-# Articles in Peer-Reviewed Journals
-
-[Back to Research]({{ '/research/' | relative_url }})
-
-## Articles in Peer-Reviewed Journals
-
-### 2025
-
-Sourabh Balgi, **Adel Daoud**, Jose M Pena, Geoffrey T Wodtke, Jesse Zhou, "Deep Learning with DAGs," *Sociological Methods and Research* (accepted)
-
-### 2024
-
-Kakooei, Mohammad, **Adel Daoud**, "Increasing the confidence of predictive uncertainty: earth observations and deep learning for poverty estimation," *IEEE Transactions on Geoscience and Remote Sensing*, [DOI: 10.1109/TGRS.2024.3392605](https://doi.org/10.1109/TGRS.2024.3392605)
-
-**Daoud, Adel**, and Fredrik Johansson, "The Impact of Austerity on Children Uncovering effect heterogeneity by political, economic, and family factors in low- and middle-income countries," *Social Science Research*
-
-### 2023
-
-**Daoud, Adel**, Felipe Jordan, Makkunda Sharma, Fredrik Johansson, Devdatt Dubhashi, Sourabh Paul, Subhashis Banerjee, "Using satellite images and deep learning to measure health and living standards in India," *Social Indicators Research*, Vol 167, Issue 1 Pages 475-505, [10.1007/s11205-023-03112-x](https://doi.org/10.1007/s11205-023-03112-x)
-
-**Daoud, Adel**, and Devdatt Dubhashi, "Statistical Modeling: The Three Cultures," *Harvard Data Science Review*, Vol 5, Issue 1, [https://doi.org/10.1162/99608f92.89f6fe66](https://doi.org/10.1162/99608f92.89f6fe66)
-
-Koichiro Shiba, **Adel Daoud**, H Hikichi, A Yazawa, J Aida, K Kondo, Ichiro Kawachi, "Uncovering heterogeneous associations between disaster-related trauma and subsequent functional limitations: a machine-learning approach," *American J of Epidemiology*, volume 192, Issue 2, February 2023, Pages 217-229, [https://doi.org/10.1093/aje/kwac187](https://doi.org/10.1093/aje/kwac187)
-
-### 2022
-
-Koichiro Shiba, Hiroyuki Hikichi; Sakurako S. Okuzono; Tyler J. VanderWeele, Mariana Arcaya; **Adel Daoud**, Richard G. Cowden; Aki Yazawab; David T. Zhu; Jun Aida; Katsunori Kondol; Ichiro Kawachi, "Long-term Associations Between Disaster-related Home Loss and Health and Wellbeing of Older Survivors: Nine Years After the 2011 Great East Japan Earthquake and Tsunami," *Environmental Health Perspectives*, Vol. 130, No. 7, [https://doi.org/10.1289/EHP10903](https://doi.org/10.1289/EHP10903)
-
-**Daoud, Adel**, Anders Herlitz, and S V Subramanian, "IMF fairness: Calibrating the policies of the International Monetary Fund based on distributive justice," *World Development*, Volume 157, September 2022, [doi.org/10.1016/j.worlddev.2022.105924](https://doi.org/10.1016/j.worlddev.2022.105924)
-
-Koichiro Shiba, **Adel Daoud**, Shiho Kino, Daisuke Nishi, Katsunori Kondo, Ichiro Kawachi, "Uncovering Heterogeneous Associations of Disaster-related Traumatic Experiences with Subsequent Mental Health Problems: a Machine Learning Approach," *Psychiatry and Clinical Neurosciences*, Volume76, Issue 4, Pages 97-105 [https://doi.org/10.1111/pcn.13322](https://doi.org/10.1111/pcn.13322)
-
-### 2021
-
-Koichiro Shiba, **Adel Daoud**, Hiroyuki Hikichi, Aki Yazawa, Jun Aida, Katsunori Kondo, Ichiro Kawachi, "Heterogeneity in cognitive decline after a major disaster: a natural experiment study," *Science Advances*, Vol 7, Issue 40, [doi: 10.1126/sciadv.abj2610](https://doi.org/10.1126/sciadv.abj2610)
-
-Kino, Shiho, Yu-Tien, Koichiro Shiba, Ichiro Kawachi, and **Adel Daoud**, "A scoping review on the use of machine learning in the research on the social determinants of health: trends and research prospects," *Social Science & Medicine - Population Health*, Volume 15, [doi.org/10.1016/j.ssmph.2021.100836](https://doi.org/10.1016/j.ssmph.2021.100836)
-
-Koichiro Shibaa, Jacqueline M. Torresc, **Adel Daoud**, Kosuke Inoue; Satoru Kanamori; Taishi Tsuji; Masamitsu Kamada, Katsunori Kondo, and Ichiro Kawachi, "Estimating the impact of sustained social participation on depressive symptoms in older adults," *Epidemiology*, Volume 32, Number 6, 30 July 2021, pp. 886-895(10), [https://doi.org/10.1097/EDE.0000000000001395](https://doi.org/10.1097/EDE.0000000000001395)
-
-Koumakhov, Rouslan and **Daoud, Adel**, "Decisions and Structures: Dialogue between Herbert Simon and Critical Realists," *British Journal of Management*, Volume 32, Issue 4, Pages 1404-1420 [https://doi.org/10.1111/1467-8551.12439](https://doi.org/10.1111/1467-8551.12439)
-
-### 2019
-
-**Daoud, Adel**, Rockli Kim, and S V Subramanian, "Evaluating the predictive power of socioeconomic factors in capturing women's height in 58 low- and middle-income countries: a machine learning approach," *Social Science & Medicine*, 238 (2019) 112486
-
-**Daoud, Adel** and Nandy, Shailen, "Implications of the politics of caste and class on child poverty in India," *Sociology of Development*, Vol. 5, Number 4, pp 428-451, [DOI: doi.org/10.1525/sod.2019.5.4.428](https://doi.org/10.1525/sod.2019.5.4.428)
-
-**Daoud, Adel**, Bernhard Reinsberg, Alexander Kentikelenis, Thomas Stubbs, Lawrence King. "The International Monetary Fund's Interventions in Food and Agriculture: An Analysis of Loans and Conditions," *Food Policy*, Vol 83, pp 204-218. [doi.org/10.1016/j.foodpol.2019.01.005](https://doi.org/10.1016/j.foodpol.2019.01.005)
-
-Kraamwinkel, N., Ekbrand, H., Davia, S., **Daoud**, A., "The influence of maternal agency on child well-being in conflict-ridden Nigeria: modelling heterogeneous treatment effects with machine learning," *PLoS ONE*: [http://doi.org/10.1371/journal.pone.0208937](https://doi.org/10.1371/journal.pone.0208937)
-
-### 2018
-
-**Daoud, Adel**, and Bernhard Reinsberg, "Structural adjustment, state capacity, and child health: Evidence from IMF programs," *International Journal of Epidemiology*, Volume 48, Issue 2, Pages 445-454
-
-Coutts, Adam, **Adel Daoud**, Ali Fakih, Walid Marrouch, and Bernhard Reinsberg, "Guns and Butter? Military Expenditure and Health Spending on the Eve of the Arab Spring," *Defence and Peace Economics*, [doi.org/10.1080/10242694.2018.1497372](https://doi.org/10.1080/10242694.2018.1497372)
-
-Conklin, Annalijn, **Adel Daoud**, Riti Shimkhada, and Ninez Ponce, "The impact of rising food prices on obesity in women: A longitudinal analysis of 31 low- and middle-income countries from 2000-2014," *International Journal of Obesity*, [doi.org/10.1038/s41366-018-0178-y](https://doi.org/10.1038/s41366-018-0178-y)
-
-**Daoud, Adel**, "Unifying studies of Scarcity, Abundance, and Sufficiency," *Ecological Economics*, Vol 147, Issue: May, pp. 208 - 217. [Doi: 10.1016/j.ecolecon.2018.01.019](https://doi.org/10.1016/j.ecolecon.2018.01.019)
-
-### 2017
-
-Ponce, Ninez, Riti Shimkhada, Amy Raub, **Adel Daoud**, Arijit Nandi, Linda Richter, Jody Heymann, "The association of minimum wage change on child nutritional status in LMICs: A quasi-experimental multi-country study," *Global Public Health*, August. [Doi: 10.1080/17441692.2017.1359327](https://doi.org/10.1080/17441692.2017.1359327)
-
-**Daoud, Adel**, Elias Nosrati, Bernhard Reinsberg, Alexander Kentikelenis, Thomas Stubbs, and Lawrence King., "Impact of International Monetary Fund programs on child health," *Proceeding of the National Academy of Sciences of the United States of America*, [doi: 10.1073/pnas.1617353114](https://doi.org/10.1073/pnas.1617353114)
-
-**Daoud, Adel**, "A Framework for Synthesizing the Malthusian and Senian approaches: exemplified by the 1943 Bengal Famine," *Cambridge J of Economics*, Vol 42, Issue 2, pp. 453-476, [Doi: 10.1093/cje/bew071](https://doi.org/10.1093/cje/bew071)
-
-Koumakhov, Rouslan and **Adel Daoud**, "Routine and reflexivity: Simonian cognitivism vs practice approach," *Industrial & Corporate Change*, 26 (4): pp. 727-743
-
-### 2016
-
-**Daoud, Adel**, Bjorn Hallerod, and Deberati Guha Sapir, "What is the association between absolute child poverty, poor governance, and natural disasters? A global comparison of some of the realities of climate change," *PLoS ONE*, 11(4), e0153296
-
-Nandy, Shailen, **Adel Daoud**, David Gordon, "Examining the changing profile of undernutrition in the context of food price rises and greater inequality," *Social Science & Medicine*, 149 (January), pp. 153-163
-
-### 2015
-
-**Daoud, Adel**, "Quality of Governance, Corruption, and Absolute Child Poverty in India," *Journal of South Asian Development*, 10(2), pp. 1-20
-
-### 2013
-
-Hallerod, Bjorn Bo Rothstein; **Adel Daoud**; Shailen Nandy, "Bad Governance and Poor Children: A Comparative analysis of government efficiency and severe child deprivation in 68 low- and middle-income countries," *World Development*, 48 (August), pp.19-31
-
-### 2012
-
-Soderberg, Johan and **Adel Daoud**, "Atoms want to be free too! - expanding the critique of intellectual property to physical goods," in *Critical Theory and Political Economy of the Internet @ Nordmedia 2011*, Christian Fuchs and Goran Bolin (eds). Online at *Cognition, Communication, Co-operation*, 10(1), pp. 66-76
-
-### 2011
-
-**Daoud, Adel** and Goran Puaca., "An organic view of want formation: pragmatic rationality, habitus and reflexivity," *British Journal of Sociology of Education*, 32 (4), pp. 603-622
-
-**Daoud, Adel** and Bengt Larsson. "Economic Sociology - Old and New," *International Journal of Pluralism and Economics Education*, 2(3), pp. 255-269
-
-Puaca, Goran and **Adel Daoud**, "Vilja och framtid i fragor kring utbildningsval," *Pedagogisk Forskning*, 16(2), 100-117
-
-**Daoud, Adel**, "The Modus Vivendi of Material Simplicity: Counteracting Scarcity via the Deflation of Wants," *Review of Social Economy*, 69(3), pp. 275-305
-
-### 2010
-
-**Daoud, Adel**, "Robbins and Malthus on Scarcity, Abundance, and Sufficiency: The Missing Sociocultural Element," *American Journal of Economics and Sociology*, 69(4), pp. 1206-1229
-
-### 2007
-
-**Daoud, Adel**. "(Quasi)Scarcity and Global Hunger: A Sociological Critique of the Scarcity Postulate with an Effort to Synthesis," *Journal of Critical Realism*, 6 (2), pp. 199-225
-
-## Computer Science Peer-Reviewed Conferences
-
-### 2025
-
-Zhu, Warren, Connor Jerzak, and **Adel Daoud**, "Learning to Encode Multi-level Dynamics in Effect Heterogeneity Estimation," Fourth Conference on Causal Learning and Reasoning (CLeaR)
-
-### 2024
-
-Zhu, Warren, Connor Jerzak, and **Adel Daoud**, "Learning to Encode Multi-level Dynamics in Effect Heterogeneity Estimation," Conference on Neural Information Processing Systems (NeurIPS), Workshop on Causal Representation Learning
-
-Balgi, Sourabh, Jose Pena, and **Adel Daoud**, "rho-GNF: A Copula-based Sensitivity Analysis to Unobserved Confounding Using Normalizing Flows," Proceedings of Machine Learning Research 246:1-18, 2024, Probabilistic Graphical Models (PGM)
-
-Balgi, Sourabh, Jose Pena, and **Adel Daoud**, "Counterfactually-Equivalent Structural Causal Modelling Using Causal Graphical Normalizing Flows," Proceedings of Machine Learning Research 246:1-18, 2024 Probabilistic Graphical Models (PGM)
-
-Nicolas Audinet de Pieuchon, **Adel Daoud**, Connor Thomas Jerzak, Moa Johansson, Richard Johansson, "Can Large Language Models (or Humans) Distill Text?", Sixth Workshop on NLP and Computational Social Science at *North American Chapter of the Association for Computational Linguistics* (NAACL)
-
-### 2023
-
-Petterson, Markus, Mohammad Kakooei, Julia Ortheden, Fredrik Johansson, **Adel Daoud**, "Time series of satellite imagery improve deep learning estimates of neighborhood-level poverty in Africa," On AI and Social Good at *the International Joint Conference on Artificial Intelligence* (IJCAI)
-
-Connor Jerzak, Fredrik Johansson, **Daoud, Adel**, "Image-based Treatment Effect Heterogeneity," Causal Learning and Reasoning (CLeaR), *the Journal of Machine Learning Research Workshop and Conference Proceedings*
-
-### 2022
-
-**Daoud, Adel**, Connor Jerzak, and Richard Johansson, "Conceptualizing Treatment Leakage in Text-based Causal Inference," *North American Chapter of the Association for Computational Linguistics* (NAACL)
-
-Balgi, Sourabh, **Adel Daoud**, and Jose Pena, "Personalized Public Policy Analysis In Social Sciences Using Causal-Graphical Normalizing Flows," *AI for Social Impact Track in Thirty-Sixth AAAI Conference on Artificial Intelligence* (Association for the Advancement of Artificial Intelligence)
-
-### 2019
-
-Joakim Akerstrom, **Adel Daoud**, and Richard Johansson, "Natural Language Processing in Policy Evaluation: Extracting Policy Conditions from IMF Loan Agreements," Published in the 22nd Nordic Conference on Computational Linguistics (NoDaLiDa'19)
+# Selected Work
+
+<p class="work-intro">
+My research sits at the intersection of causal inference, machine learning, and global development. Rather than list everything, this page highlights selected work grouped by theme, each with a visualization that captures the core idea. For the complete and always-current list of publications, see my <a href="https://scholar.google.se/citations?user=iCDKhFsAAAAJ&amp;hl=sv" target="_blank" rel="noopener">Google Scholar profile</a>.
+</p>
+
+<section class="work-theme">
+  <figure>
+    <img src="{{ '/assets/images/research/imf-child-poverty-map.png' | relative_url }}" alt="World map shading the low- and middle-income countries by level of child poverty">
+    <figcaption>Where child poverty concentrates: the low- and middle-income countries most exposed to IMF programs. <span class="fig-src">Figure from Daoud &amp; Johansson, &ldquo;Estimating Treatment Heterogeneity of IMF Programs on Child Poverty,&rdquo; 2019.</span></figcaption>
+  </figure>
+  <h2>The IMF, austerity, and children</h2>
+  <p class="theme-blurb">Loan programs from the International Monetary Fund reshape the budgets of borrowing governments, often through austerity. In a series of studies I trace how these conditions ripple down to the health and welfare of children, and ask what a fairer set of policies would look like.</p>
+  <ul class="featured-papers">
+    <li>Daoud, Nosrati, Reinsberg, Kentikelenis, Stubbs &amp; King, &ldquo;Impact of IMF programs on child health,&rdquo; <span class="paper-venue">PNAS</span>, 2017. <a class="doi-link" href="https://doi.org/10.1073/pnas.1617353114" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Daoud &amp; Reinsberg, &ldquo;Structural adjustment, state capacity, and child health: Evidence from IMF programs,&rdquo; <span class="paper-venue">International Journal of Epidemiology</span>, 2018.</li>
+    <li>Daoud, Reinsberg, Kentikelenis, Stubbs &amp; King, &ldquo;The IMF&rsquo;s Interventions in Food and Agriculture,&rdquo; <span class="paper-venue">Food Policy</span>, 2019. <a class="doi-link" href="https://doi.org/10.1016/j.foodpol.2019.01.005" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Daoud, Herlitz &amp; Subramanian, &ldquo;IMF fairness: Calibrating the policies of the IMF based on distributive justice,&rdquo; <span class="paper-venue">World Development</span>, 2022. <a class="doi-link" href="https://doi.org/10.1016/j.worlddev.2022.105924" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+  </ul>
+</section>
+
+<section class="work-theme">
+  <figure>
+    <img src="{{ '/assets/images/research/eo-satellite-composite.jpg' | relative_url }}" alt="Satellite composite imagery of study regions in India, with a small locator map">
+    <figcaption>Satellite composite imagery of study regions in India. Deep learning models read images like these to estimate living standards where survey data are missing. <span class="fig-src">Figure from Daoud et al., <em>Social Indicators Research</em>, 2023.</span></figcaption>
+  </figure>
+  <h2>Seeing poverty from space</h2>
+  <p class="theme-blurb">Surveys and censuses are expensive and quickly go out of date. With co-authors I train deep learning models to read satellite imagery and estimate living standards at fine spatial resolution, building proxies that extend social measurement to places and times where survey data are missing.</p>
+  <ul class="featured-papers">
+    <li>Daoud, Jordan, Sharma, Johansson, Dubhashi, Paul &amp; Banerjee, &ldquo;Using satellite images and deep learning to measure health and living standards in India,&rdquo; <span class="paper-venue">Social Indicators Research</span>, 2023. <a class="doi-link" href="https://doi.org/10.1007/s11205-023-03112-x" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Kakooei &amp; Daoud, &ldquo;Increasing the confidence of predictive uncertainty: earth observations and deep learning for poverty estimation,&rdquo; <span class="paper-venue">IEEE Transactions on Geoscience and Remote Sensing</span>, 2024. <a class="doi-link" href="https://doi.org/10.1109/TGRS.2024.3392605" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Pettersson, Kakooei, Ortheden, Johansson &amp; Daoud, &ldquo;Time series of satellite imagery improve deep learning estimates of neighborhood-level poverty in Africa,&rdquo; <span class="paper-venue">IJCAI</span>, 2023.</li>
+  </ul>
+</section>
+
+<section class="work-theme">
+  <figure>
+    <img src="{{ '/assets/images/research/dag-blau-duncan.png' | relative_url }}" alt="Directed acyclic graph of a status-attainment model with nodes V, X, U, W, Y and their error terms">
+    <figcaption>A directed acyclic graph encoding the causal assumptions of a model, here a reanalysis of Blau and Duncan&rsquo;s classic status-attainment model. These methods learn such structures directly with deep models. <span class="fig-src">Figure from Balgi, Daoud et al., &ldquo;Deep Learning with DAGs,&rdquo; 2025.</span></figcaption>
+  </figure>
+  <h2>Causal inference with machine learning</h2>
+  <p class="theme-blurb">Much of my methodological work asks how machine learning can serve causal questions rather than mere prediction. These papers develop tools for encoding causal assumptions as graphs, estimating heterogeneous effects, and clarifying when learned models can and cannot support causal claims.</p>
+  <ul class="featured-papers">
+    <li>Balgi, Daoud, Pe&ntilde;a, Wodtke &amp; Zhou, &ldquo;Deep Learning with DAGs,&rdquo; <span class="paper-venue">Sociological Methods &amp; Research</span>, 2025.</li>
+    <li>Daoud &amp; Dubhashi, &ldquo;Statistical Modeling: The Three Cultures,&rdquo; <span class="paper-venue">Harvard Data Science Review</span>, 2023. <a class="doi-link" href="https://doi.org/10.1162/99608f92.89f6fe66" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Jerzak, Johansson &amp; Daoud, &ldquo;Image-based Treatment Effect Heterogeneity,&rdquo; <span class="paper-venue">CLeaR</span>, 2023.</li>
+    <li>Daoud, Jerzak &amp; Johansson, &ldquo;Conceptualizing Treatment Leakage in Text-based Causal Inference,&rdquo; <span class="paper-venue">NAACL</span>, 2022.</li>
+  </ul>
+</section>
+
+<section class="work-theme">
+  <figure>
+    <img src="{{ '/assets/images/research/imf-effect-histogram.png' | relative_url }}" alt="Histogram of the estimated IMF effect on each individual child, spread around a dashed average line">
+    <figcaption>The average hides the story: the distribution of the estimated IMF effect on each individual child&rsquo;s poverty risk. The dashed line marks the average, but the effect falls very unevenly across children. <span class="fig-src">Figure from Daoud &amp; Johansson, 2019.</span></figcaption>
+  </figure>
+  <h2>When averages lie: disasters, austerity, and heterogeneous effects</h2>
+  <p class="theme-blurb">Average treatment effects can hide as much as they reveal. Using machine learning to estimate individual-level effects, these studies show how the consequences of disasters and austerity fall unevenly across people, and how to recover that heterogeneity from data.</p>
+  <ul class="featured-papers">
+    <li>Shiba, Daoud, Hikichi, Yazawa, Aida, Kondo &amp; Kawachi, &ldquo;Heterogeneity in cognitive decline after a major disaster: a natural experiment study,&rdquo; <span class="paper-venue">Science Advances</span>, 2021. <a class="doi-link" href="https://doi.org/10.1126/sciadv.abj2610" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Daoud &amp; Johansson, &ldquo;The Impact of Austerity on Children: Uncovering effect heterogeneity in low- and middle-income countries,&rdquo; <span class="paper-venue">Social Science Research</span>, 2024.</li>
+    <li>Shiba et al., &ldquo;Long-term Associations Between Disaster-related Home Loss and Health and Wellbeing of Older Survivors,&rdquo; <span class="paper-venue">Environmental Health Perspectives</span>, 2022. <a class="doi-link" href="https://doi.org/10.1289/EHP10903" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+  </ul>
+</section>
+
+<section class="work-theme">
+  <h2>Scarcity, abundance, and sufficiency</h2>
+  <p class="theme-blurb">Before the empirical work, a conceptual question motivated me. What do we actually mean by scarcity? These papers reconstruct the idea across economics and sociology, and connect it to abundance and sufficiency as alternative ways of relating human wants to available resources.</p>
+  <ul class="featured-papers">
+    <li>Daoud, &ldquo;Unifying studies of Scarcity, Abundance, and Sufficiency,&rdquo; <span class="paper-venue">Ecological Economics</span>, 2018. <a class="doi-link" href="https://doi.org/10.1016/j.ecolecon.2018.01.019" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Daoud, &ldquo;A Framework for Synthesizing the Malthusian and Senian approaches: the 1943 Bengal Famine,&rdquo; <span class="paper-venue">Cambridge Journal of Economics</span>, 2017. <a class="doi-link" href="https://doi.org/10.1093/cje/bew071" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
+    <li>Daoud, &ldquo;(Quasi)Scarcity and Global Hunger: A Sociological Critique of the Scarcity Postulate,&rdquo; <span class="paper-venue">Journal of Critical Realism</span>, 2007.</li>
+  </ul>
+</section>
+
+<section class="scholar-cta">
+  <p>This is a curated selection. For the full and continuously updated list of publications, including working papers and conference proceedings, visit my <a href="https://scholar.google.se/citations?user=iCDKhFsAAAAJ&amp;hl=sv" target="_blank" rel="noopener">Google Scholar profile</a>.</p>
+  <p><a class="btn btn-secondary" href="{{ '/research/' | relative_url }}">&larr; Back to Research</a></p>
+</section>

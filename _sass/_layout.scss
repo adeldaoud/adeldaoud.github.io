@@ -125,6 +125,89 @@
   }
 }
 
+// Selected Work / research themes
+.work-intro {
+  font-family: $font-serif;
+  font-size: 1.15rem;
+  color: lighten($raft-fg, 10%);
+  margin-bottom: $spacing-unit * 2.5;
+}
+
+.work-theme {
+  margin-bottom: $spacing-unit * 4;
+
+  figure {
+    margin: 0 0 $spacing-unit * 1.25;
+  }
+
+  figure img {
+    width: 100%;
+    border: 1px solid darken($raft-bg, 10%);
+    border-radius: 8px;
+    background-color: lighten($raft-bg, 4%);
+    padding: $spacing-unit * 0.5;
+  }
+
+  figcaption {
+    font-family: $font-primary;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: lighten($raft-fg, 30%);
+    margin-top: $spacing-unit * 0.5;
+  }
+
+  figcaption .fig-src {
+    font-style: italic;
+    color: lighten($raft-fg, 38%);
+  }
+
+  h2 {
+    border-bottom: 2px solid $raft-accent;
+    padding-bottom: $spacing-unit * 0.4;
+    margin-top: $spacing-unit * 0.5;
+  }
+
+  .theme-blurb {
+    font-family: $font-serif;
+  }
+}
+
+.featured-papers {
+  list-style: none;
+  padding-left: 0;
+  margin-top: $spacing-unit * 1.25;
+
+  li {
+    font-family: $font-serif;
+    padding-left: $spacing-unit;
+    border-left: 3px solid darken($raft-bg, 12%);
+    margin-bottom: $spacing-unit;
+    transition: border-color $transition-fast;
+  }
+
+  li:hover {
+    border-left-color: $raft-accent;
+  }
+
+  .paper-venue {
+    font-style: italic;
+    color: lighten($raft-fg, 22%);
+  }
+
+  .doi-link {
+    font-family: $font-primary;
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+}
+
+.scholar-cta {
+  margin-top: $spacing-unit * 3;
+  padding-top: $spacing-unit * 1.5;
+  border-top: 1px solid darken($raft-bg, 12%);
+  font-family: $font-serif;
+}
+
 // Buttons
 .btn {
   display: inline-block;

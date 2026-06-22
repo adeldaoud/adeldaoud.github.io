@@ -57,10 +57,10 @@ My research sits at the intersection of causal inference, machine learning, and 
 <section class="work-theme">
   <figure>
     <img src="{{ '/assets/images/research/imf-effect-histogram.png' | relative_url }}" alt="Histogram of the estimated IMF effect on each individual child, spread around a dashed average line">
-    <figcaption>The average hides the story: the distribution of the estimated IMF effect on each individual child&rsquo;s poverty risk. The dashed line marks the average, but the effect falls very unevenly across children. <span class="fig-src">Figure from Daoud &amp; Johansson, 2019.</span></figcaption>
+    <figcaption>The estimated effect of IMF programs on each child&rsquo;s poverty risk. The dashed line marks the average, while the spread shows how much the effect varies from child to child. <span class="fig-src">Figure from Daoud &amp; Johansson, 2019.</span></figcaption>
   </figure>
-  <h2>When averages lie: disasters, austerity, and heterogeneous effects</h2>
-  <p class="theme-blurb">Average treatment effects can hide as much as they reveal. Using machine learning to estimate individual-level effects, these studies show how the consequences of disasters and austerity fall unevenly across people, and how to recover that heterogeneity from data.</p>
+  <h2>Beyond the average: disasters, austerity, and uneven effects</h2>
+  <p class="theme-blurb">An average effect summarizes a whole population in a single number, which can obscure real differences between people. Using machine learning to estimate effects at the individual level, these studies examine how the consequences of disasters and austerity vary from person to person, and how to recover that variation from data.</p>
   <ul class="featured-papers">
     <li>Shiba, Daoud, Hikichi, Yazawa, Aida, Kondo &amp; Kawachi, &ldquo;Heterogeneity in cognitive decline after a major disaster: a natural experiment study,&rdquo; <span class="paper-venue">Science Advances</span>, 2021. <a class="doi-link" href="https://doi.org/10.1126/sciadv.abj2610" target="_blank" rel="noopener">DOI&nbsp;&rarr;</a></li>
     <li>Daoud &amp; Johansson, &ldquo;The Impact of Austerity on Children: Uncovering effect heterogeneity in low- and middle-income countries,&rdquo; <span class="paper-venue">Social Science Research</span>, 2024.</li>

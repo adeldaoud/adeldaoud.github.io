@@ -156,6 +156,11 @@
     margin-top: $spacing-unit * 0.5;
   }
 
+  figcaption .fig-src {
+    font-style: italic;
+    color: lighten($raft-fg, 38%);
+  }
+
   h2 {
     border-bottom: 2px solid $raft-accent;
     padding-bottom: $spacing-unit * 0.4;

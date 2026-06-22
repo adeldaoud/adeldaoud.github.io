@@ -12,8 +12,8 @@ My research sits at the intersection of causal inference, machine learning, and 
 
 <section class="work-theme">
   <figure>
-    <img src="{{ '/assets/images/research/imf-child-health.svg' | relative_url }}" alt="Flow diagram: IMF program to austerity conditions to weaker state capacity to lower child health">
-    <figcaption>How IMF programs reach children: austerity conditions constrain public spending and weaken state capacity, with downstream effects on child health.</figcaption>
+    <img src="{{ '/assets/images/research/imf-child-poverty-map.png' | relative_url }}" alt="World map shading the low- and middle-income countries by level of child poverty">
+    <figcaption>Where child poverty concentrates: the low- and middle-income countries most exposed to IMF programs. <span class="fig-src">Figure from Daoud &amp; Johansson, &ldquo;Estimating Treatment Heterogeneity of IMF Programs on Child Poverty,&rdquo; 2019.</span></figcaption>
   </figure>
   <h2>The IMF, austerity, and children</h2>
   <p class="theme-blurb">Loan programs from the International Monetary Fund reshape the budgets of borrowing governments, often through austerity. In a series of studies I trace how these conditions ripple down to the health and welfare of children, and ask what a fairer set of policies would look like.</p>
@@ -27,8 +27,8 @@ My research sits at the intersection of causal inference, machine learning, and 
 
 <section class="work-theme">
   <figure>
-    <img src="{{ '/assets/images/research/eo-poverty.svg' | relative_url }}" alt="Schematic: satellite imagery passed through a deep learning model produces an estimated wealth heatmap">
-    <figcaption>From pixels to poverty: deep learning models translate satellite imagery into high-resolution estimates of living standards. Illustrative schematic.</figcaption>
+    <img src="{{ '/assets/images/research/eo-satellite-composite.jpg' | relative_url }}" alt="Satellite composite imagery of study regions in India, with a small locator map">
+    <figcaption>Satellite composite imagery of study regions in India. Deep learning models read images like these to estimate living standards where survey data are missing. <span class="fig-src">Figure from Daoud et al., <em>Social Indicators Research</em>, 2023.</span></figcaption>
   </figure>
   <h2>Seeing poverty from space</h2>
   <p class="theme-blurb">Surveys and censuses are expensive and quickly go out of date. With co-authors I train deep learning models to read satellite imagery and estimate living standards at fine spatial resolution, building proxies that extend social measurement to places and times where survey data are missing.</p>
@@ -41,8 +41,8 @@ My research sits at the intersection of causal inference, machine learning, and 
 
 <section class="work-theme">
   <figure>
-    <img src="{{ '/assets/images/research/causal-dag.svg' | relative_url }}" alt="Directed acyclic graph with treatment A, mediator M, and outcomes Y-i and Y-j linked across units">
-    <figcaption>A causal graph of the kind these methods reason over: a treatment A acts through a mediator M on outcomes, which may themselves be linked across units.</figcaption>
+    <img src="{{ '/assets/images/research/dag-blau-duncan.png' | relative_url }}" alt="Directed acyclic graph of a status-attainment model with nodes V, X, U, W, Y and their error terms">
+    <figcaption>A directed acyclic graph encoding the causal assumptions of a model, here a reanalysis of Blau and Duncan&rsquo;s classic status-attainment model. These methods learn such structures directly with deep models. <span class="fig-src">Figure from Balgi, Daoud et al., &ldquo;Deep Learning with DAGs,&rdquo; 2025.</span></figcaption>
   </figure>
   <h2>Causal inference with machine learning</h2>
   <p class="theme-blurb">Much of my methodological work asks how machine learning can serve causal questions rather than mere prediction. These papers develop tools for encoding causal assumptions as graphs, estimating heterogeneous effects, and clarifying when learned models can and cannot support causal claims.</p>
@@ -56,8 +56,8 @@ My research sits at the intersection of causal inference, machine learning, and 
 
 <section class="work-theme">
   <figure>
-    <img src="{{ '/assets/images/research/heterogeneity.svg' | relative_url }}" alt="Distribution of individual treatment effects with a dashed line at the average, spanning harmed and helped regions">
-    <figcaption>The average hides the story: a distribution of individual treatment effects, where the mean (dashed) masks people who are helped, unaffected, or harmed. Illustrative.</figcaption>
+    <img src="{{ '/assets/images/research/imf-effect-histogram.png' | relative_url }}" alt="Histogram of the estimated IMF effect on each individual child, spread around a dashed average line">
+    <figcaption>The average hides the story: the distribution of the estimated IMF effect on each individual child&rsquo;s poverty risk. The dashed line marks the average, but the effect falls very unevenly across children. <span class="fig-src">Figure from Daoud &amp; Johansson, 2019.</span></figcaption>
   </figure>
   <h2>When averages lie: disasters, austerity, and heterogeneous effects</h2>
   <p class="theme-blurb">Average treatment effects can hide as much as they reveal. Using machine learning to estimate individual-level effects, these studies show how the consequences of disasters and austerity fall unevenly across people, and how to recover that heterogeneity from data.</p>
@@ -69,10 +69,6 @@ My research sits at the intersection of causal inference, machine learning, and 
 </section>
 
 <section class="work-theme">
-  <figure>
-    <img src="{{ '/assets/images/research/scarcity-sufficiency.svg' | relative_url }}" alt="A horizontal axis with scarcity, sufficiency, and abundance as three relations between wants and resources">
-    <figcaption>Scarcity, sufficiency, and abundance as three relations between human wants and available resources.</figcaption>
-  </figure>
   <h2>Scarcity, abundance, and sufficiency</h2>
   <p class="theme-blurb">Before the empirical work, a conceptual question motivated me. What do we actually mean by scarcity? These papers reconstruct the idea across economics and sociology, and connect it to abundance and sufficiency as alternative ways of relating human wants to available resources.</p>
   <ul class="featured-papers">
